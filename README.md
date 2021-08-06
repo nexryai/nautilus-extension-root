@@ -1,4 +1,4 @@
-# nautilus-extensions-root
+# nautilus-extension-root
 Add "Open as root" to the right-click menu of nautilus.
 
 ## Dependency
