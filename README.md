@@ -8,4 +8,4 @@ pkexec
 
 ## Install
 `sudo cp nautilus-root /usr/bin/` <br>
-`sudo cp nautilus-root.py $home/.local/share/nautilus-python/extensions/`
+`cp nautilus-root.py $home/.local/share/nautilus-python/extensions/`
