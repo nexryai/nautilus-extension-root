@@ -4,7 +4,7 @@ Add "Open as root" to the right-click menu of nautilus.
 ## Dependency
 nautilus-python <br>
 zenity <br>
-gnomesu
+pkexec
 
 ## Install
 `sudo cp nautilus-root /usr/bin/` <br>
